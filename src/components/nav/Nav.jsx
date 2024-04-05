@@ -24,9 +24,10 @@ const Nav = () => {
           <img src={logo} alt="logoEscalante" />
         </div>
         <div className="nav__options-container">
-            <ul>
-                <btn>Inicio</btn>
-                <btn>Productos</btn>
+            <ul className="nav__options-list">
+                <li>
+                  <p className="nav__option-inicio">Inicio</p>
+                </li>
             </ul>
         </div>
       </div>
