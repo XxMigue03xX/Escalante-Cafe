@@ -1,6 +1,6 @@
-import "./ProductList.css"
 import { products } from "../../constants"
-import Product from "../Product/Product"
+import Product from "../Product/Product.jsx"
+import "./ProductList.css"
 
 const ProductList = () => {
   return (

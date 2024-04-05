@@ -1,5 +1,5 @@
-import Nav from './components/Nav/Nav'
-import ProductList from './components/ProductList/ProductList'
+import Nav from './components/Nav/Nav.jsx'
+import ProductList from './components/ProductList/ProductList.jsx'
 import './App.css'
 
 function App() {
